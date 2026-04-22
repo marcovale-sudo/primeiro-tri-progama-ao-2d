@@ -1,1 +1,1 @@
-# primeiro-tri-progama-ao-2d
+# primeiro-tri-progamaçao-2d
